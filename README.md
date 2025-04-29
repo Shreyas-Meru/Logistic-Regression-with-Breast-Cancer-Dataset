@@ -79,4 +79,3 @@ The logistic regression model uses the sigmoid activation function to map predic
 
 - [Scikit-learn](https://scikit-learn.org/)
 - [UCI ML Repository](https://archive.ics.uci.edu/)
-```
