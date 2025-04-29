@@ -74,7 +74,6 @@ The logistic regression model uses the sigmoid activation function to map predic
 - matplotlib
 - numpy
 
----
 
 ## 🙌 Acknowledgments
 
